@@ -43,4 +43,4 @@ SELECT * FROM data1 WHERE age < 20;
 
 * **Three tier Architecture :-** *SQL is used as **Three tier architecture**  of a client, an application server and a database which defines the internet archtecuter.*
 
-![Three tier architecture of internet](Images/Three%20tier%20architecture%20of%20internet1.png)
+    ![Three tier architecture of internet](Images/Three%20tier%20architecture%20of%20internet1.png)
