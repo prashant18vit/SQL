@@ -2,7 +2,7 @@
 1. **[SQL](#sql)**
 
 2. **[DBMS](#dbms)**
-3. **[DBMS](#relational-database)**
+3. **[Relational Database](#relational-database)**
 # DBMS:
 _DBMS is a collection of programs which enables its user to access
 database, manipulate data, reporting/ representation of data._
@@ -17,3 +17,10 @@ be used to create, read, update and delete database records.***
 
 # Relational Database:
 _A relational database is a type of database that stores data and provides access points to data that are related to one another_
+
+*using ***"keys"*** such as ***"primary key"** **"secondary key"*** ***"Candidate key"*** these provide relation between one column of the table to another column of the table*
+
+## SQL query
+```sql
+SELECT * FROM data1 WHERE age<20;
+```
