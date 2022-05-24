@@ -2,7 +2,7 @@
 1. **[SQL](#sql)**
 
 2. **[DBMS](#dbms)**
-3. **[DBMS](#Relational Database)**
+3. **[DBMS](#relational-database)**
 # DBMS:
 _DBMS is a collection of programs which enables its user to access
 database, manipulate data, reporting/ representation of data._
@@ -15,6 +15,5 @@ _SQL(_S_ tructured _Q_ uery _L_ anguage)_
 be used to create, read, update and delete database records.***
 
 
-# Relational Database
-
-  [1]: #relational-database
+# Relational Database:
+_A relational database is a type of database that stores data and provides access points to data that are related to one another_
