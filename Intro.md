@@ -4,6 +4,11 @@
 2. **[DBMS](#dbms)**
 3. **[Relational Database](#relational-database)**
 1. **[Application of SQL](#application-of-sql)**
+    1. [DDL](#1-ddl)
+    1. [DML](#2-dml)
+    1. [DCL](#3-dcl)
+    1. [client/server language](#4-clientserver-language)
+    1. [Three tier Architecture](#5-three-tier-architecture)
 # DBMS:
 _DBMS is a collection of programs which enables its user to access
 database, manipulate data, reporting/ representation of data._
@@ -26,21 +31,31 @@ _A relational database is a type of database that stores data and provides acces
 SELECT * FROM data1 WHERE age < 20;
 ```
 
+
 1. SELECT:- Depict data from the server and show it to us.
 2. \* :- All / show everything that is present.
 3. data1 :- DB Name.
 4. WHERE age < 20 :- Condition.
 
+
 # Application of SQL.
 
-* **DDL:-** *SQL is used as **Data Definition Language** **(DDL)** meaning you can independently create a database, define its structure, use it and then discard it when we are done with it.*
+##### 1. DDL
+   *SQL is used as **Data Definition Language** **(DDL)** meaning you can independently create a database, define its structure, use it and then discard it when we are done with it.*
 
-* **DML:-** *SQL is used as **Data Manipulation Language** **(DML)** meaning you can use it to maintain an existing database 1.changing, 2.Updating, 3.deleting, etc.*
+##### 2. DML
+  *SQL is used as **Data Manipulation Language** **(DML)** meaning you can use it to maintain an existing database 1.changing, 2.Updating, 3.deleting, etc.*
 
-* **DCL:-** *SQL is used as **Data Control Language** **(DCL)** which specifies how you can protect your database against corruption and misuse.*
+##### 3. DCL
+   *SQL is used as **Data Control Language** **(DCL)** which specifies how you can protect your database against corruption and misuse.*
 
-* **client/server language :-** *SQL is used as **client/ server language** to connect front-end with back-end thus supporting the client/server architecture .*
+##### 4. client/server language 
+   *SQL is used as **client/ server language** to connect front-end with back-end thus supporting the client/server architecture .*
 
-* **Three tier Architecture :-** *SQL is used as **Three tier architecture**  of a client, an application server and a database which defines the internet archtecuter.*
+##### 5. Three tier Architecture
+   *SQL is used as **Three tier architecture**  of a client, an application server and a database which defines the internet architecuter.*
 
-    ![Three tier architecture of internet](Images/Three%20tier%20architecture%20of%20internet1.png)
+   ![Three tier architecture of internet](Images/Three%20tier%20architecture%20of%20internet1.png)
+    
+    
+    
