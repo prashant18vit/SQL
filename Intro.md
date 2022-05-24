@@ -33,4 +33,6 @@ SELECT * FROM data1 WHERE age < 20;
 
 # Application of SQL.
 
-* DDL:- ***SQL is used as Data Definition Language **(DDL)** meaning you can independently create a database, define its structure, use it and then dicard it when we are done with it.***
+* **DDL:-** *SQL is used as Data Definition Language **(DDL)** meaning you can independently create a database, define its structure, use it and then dicard it when we are done with it.*
+
+* **DML:-** *SQL is used as Data Manipulation Language **(DML)** meaning you can use it to maintain an existing database*
