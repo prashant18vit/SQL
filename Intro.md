@@ -33,6 +33,14 @@ SELECT * FROM data1 WHERE age < 20;
 
 # Application of SQL.
 
-* **DDL:-** *SQL is used as Data Definition Language **(DDL)** meaning you can independently create a database, define its structure, use it and then dicard it when we are done with it.*
+* **DDL:-** *SQL is used as **Data Definition Language** **(DDL)** meaning you can independently create a database, define its structure, use it and then discard it when we are done with it.*
 
-* **DML:-** *SQL is used as Data Manipulation Language **(DML)** meaning you can use it to maintain an existing database*
+* **DML:-** *SQL is used as **Data Manipulation Language** **(DML)** meaning you can use it to maintain an existing database 1.changing, 2.Updating, 3.deleting, etc.*
+
+* **DCL:-** *SQL is used as **Data Control Language** **(DCL)** which specifies how you can protect your database against corruption and misuse.*
+
+* **client/server language :-** *SQL is used as **client/ server language** to connect front-end with back-end thus supporting the client/server architecture .*
+
+* **Three tier Architecture :-** *SQL is used as **Three tier architecture**  of a client, an application server and a database which defines the internet archtecuter.*
+
+![Three tier architecture of internet](Images/Three%20tier%20architecture%20of%20internet1.png)
