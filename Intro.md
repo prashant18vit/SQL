@@ -3,6 +3,7 @@
 
 2. **[DBMS](#dbms)**
 3. **[Relational Database](#relational-database)**
+1. **[Application of SQL](#application-of-sql)**
 # DBMS:
 _DBMS is a collection of programs which enables its user to access
 database, manipulate data, reporting/ representation of data._
@@ -22,5 +23,14 @@ _A relational database is a type of database that stores data and provides acces
 
 ## SQL query
 ```sql
-SELECT * FROM data1 WHERE age<20;
+SELECT * FROM data1 WHERE age < 20;
 ```
+
+1. SELECT:- Depict data from the server and show it to us.
+2. \* :- All / show everything that is present.
+3. data1 :- DB Name.
+4. WHERE age < 20 :- Condition.
+
+# Application of SQL.
+
+* DDL:- ***SQL is used as Data Definition Language **(DDL)** meaning you can independently create a database, define its structure, use it and then dicard it when we are done with it.***
